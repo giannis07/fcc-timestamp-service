@@ -17,16 +17,18 @@ This microservice accepts a date string (or UNIX timestamp) and returns a JSON o
 ## 🛠️ How to Run Locally
 
 1. Clone the repository:
+
    git clone https://github.com/giannis07/fcc-timestamp-service.git
+   
    cd fcc-timestamp-service
 
-2. Install dependencies:
+3. Install dependencies:
    npm install
 
-3. Start the server:
+4. Start the server:
    npm start
 
-4. Visit `http://localhost:3000/api/` in your browser.
+5. Visit `http://localhost:3000/api/` in your browser.
 
 ## 📡 API Endpoints
 
