@@ -1,6 +1,6 @@
 # Timestamp Microservice
 
-This is a simple timestamp microservice built as part of the [freeCodeCamp Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice).
+Project built for the [Timestamp Microservice challenge from freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice).
 
 ## 📌 Project Description
 
